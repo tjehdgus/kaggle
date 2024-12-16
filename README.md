@@ -66,8 +66,7 @@
 ![XGBoost](https://img.shields.io/badge/XGBoost-AA4C2C?style=for-the-badge)
 
 ### **Visualization Tools**
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ---
 
 # 📊 주요 성과
@@ -76,7 +75,7 @@
   - LSTM, GRU 시도 결과 ARIMA/SARIMA 대비 낮은 성과
 - **실제 적용 가능성**:
   - 계절성과 이벤트 특성을 반영하여 효율적인 재고 및 매출 관리 가능
-  - 파생변수 생성으로 인한 높은 등수 확보
+  - 파생변수(EWM, SMA 등) 생성으로 인한 높은 등수 확보
 
 ---
 
