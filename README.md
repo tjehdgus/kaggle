@@ -3,7 +3,7 @@
 
 
 <img src="https://github.com/user-attachments/assets/5ecea204-59f6-4500-90ea-24e3b4d83e2b" alt="딥러닝발표자료" width="500">\
-
+<img src="https://github.com/user-attachments/assets/fd3238a6-ce80-42f8-95ef-992154a59690" alt="딥러닝발표자료" width="500">\
 # 🗂 발표 자료
 - [📂 발표자료 PDF](https://github.com/tjehdgus/kaggle/blob/main/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
 
@@ -36,7 +36,7 @@
 - **시도 모델**:
   - LSTM, GRU, Facebook Prophet
 - **모델 평가 지표**:
-  - RMSE, RMSLE, MAE, MAPE 등 다양한 성능 평가 지표 활용
+  - kaggle의 등수로 확인
 
 ### 4️⃣ **GPU 환경 구성**
 - **사용된 하드웨어 및 소프트웨어**:
