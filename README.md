@@ -64,7 +64,6 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![LightGBM](https://img.shields.io/badge/LightGBM-007D9C?style=for-the-badge)
 ![XGBoost](https://img.shields.io/badge/XGBoost-AA4C2C?style=for-the-badge)
-![Mediapipe](https://img.shields.io/badge/Mediapipe-009688?style=for-the-badge&logo=mediapipe&logoColor=white)
 
 ### **Visualization Tools**
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
