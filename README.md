@@ -1,11 +1,11 @@
 # kaggle
-# 🏋️‍♂️ 딥러닝 기반 운동 자세 평가 및 분류 프로젝트
+# 📊 캐글 프로젝트
 
 
 <img src="https://github.com/user-attachments/assets/5ecea204-59f6-4500-90ea-24e3b4d83e2b" alt="딥러닝발표자료" width="500">\
 
 # 🗂 발표 자료
-- [📂 발표자료 PDF](https://github.com/tjehdgus/deep_learning/blob/main/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
+- [📂 발표자료 PDF](https://github.com/user-attachments/files/18146579/default.pdf)
 
 # 📖 프로젝트 소개
 
